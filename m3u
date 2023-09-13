@@ -1,10 +1,4 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats (1080p)
-https://stream.ecable.tv/afrobeats/index.m3u8
- 
-#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray (1080p)
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="World",Electric Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
@@ -45,6 +39,12 @@ http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Latino", Telemundo 
 http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Latino", TBS 
+http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="Latino", DePelicula 
+http://tv.teleclub.xyz/envivo/Entretenimiento/DEPELICULA/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater 
 http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
 
@@ -65,3 +65,46 @@ http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2 
 http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
+
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+ 
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV 
+http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN 
+http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony 
+http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal 
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", 
+HBO http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO + 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento", HBO Signature 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC 
+http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
+http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
+
