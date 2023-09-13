@@ -1,0 +1,67 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats (1080p)
+https://stream.ecable.tv/afrobeats/index.m3u8
+ 
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Music",Qello Concerts by Stingray (1080p)
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
+
+#EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="World",Electric Now (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="World",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="World",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="World",France 24 English (1080p)
+https://ythls.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="World",TRT World (1080p) [Not 24/7]
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="World",Hope Channel India (1080p)
+https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Latino", Bitme 
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Latino", Cartoonito 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Latino", RT en Español 
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Latino", Telefe 
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Latino", HolaTV 
+http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Latino", Canal E! 
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Latino", Telemundo 
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura", Discovery Theater 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura", Discovery World 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura", Discovery Sciences 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="Cultura", Discovery ID 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura", Discovery H&H 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E 
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2 
+http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
