@@ -19,10 +19,13 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/DEPELICULA/index.m3u8
 #EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="Latino",Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2DFUNE.png" group-title="CO Cordoba",Canal 2 - 2CTV - Deán Funes - CO Cordoba
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0120
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2DFUNE.png" group-title="CO Cordoba 2",Canal 2 - 2CTV - Deán Funes - CO Cordoba
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2DFUNE.png" group-title="Paises",Canal 2 - 2CTV
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ifG47cL.png" group-title="Paises",Canal 6 Mex
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-BLANCO.png" group-title="Paises",Multivision Arg
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="World",Electric Now (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
@@ -81,5 +84,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
+
+
 
 
