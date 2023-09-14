@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ezjcqWP.jpg" group-title="Peru",Panamericana TV
+https://cdn75.iblups.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV (720p) [Not 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur (720p) [Not 24/7]
@@ -7,6 +10,10 @@ https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sd
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Peru",Canal IPe (1080p)
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPEsVJs.png" group-title="Peru",TV Peru
+https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NbM0luy.png" group-title="Peru",Willax TV
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmidjstfFSTQUPvrdSmoNSd9yzQFrATQAy_8xr63_Gauq)/dm/3/x7x4dgx/s/live-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina (720p) [Geo-blocked]
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 
@@ -120,7 +127,6 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
-
 
 
 
