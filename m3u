@@ -26,7 +26,7 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2023/06/LOGO-CANAL-9-MULTIVISION-300x99-BLANCO.png" group-title="Paises",Multivision Arg
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
-#EXTINF:-1 tvg-id="Doble C TV" tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png", Doble C TV | PE
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/0ac03650f0084a61e8e53d149310ac99.png" group-title="Paises", Doble C Pe
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
 #EXTINF:-1 tvg-id="ElectricNow.us" tvg-logo="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png" group-title="World",Electric Now (1080p)
@@ -92,6 +92,7 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8
 http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
+
 
 
 
