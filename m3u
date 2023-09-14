@@ -8,6 +8,8 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Peru",Canal IPe (1080p)
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/512px-Las_Estrellas.svg.png" group-title="Latino",Las Estrellas (720p)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Latino", Bitme 
 http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Latino", Cartoonito 
@@ -85,6 +87,10 @@ https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 https://servilive.com:3531/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="Music",Galáctica TV (1080p) [Not 24/7]
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña [Not 24/7]
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV 
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
