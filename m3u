@@ -91,8 +91,10 @@ https://servilive.com:3531/stream/play.m3u8
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Music",Karibeña (720p) [Not 24/7]
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Undefined",La Ribereña [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BOXIRBT.png" group-title="Music",La Ribereña [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Music",LimaLive (720p) [Not 24/7]
+https://vdo.grupolimalive.com:3245/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV 
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
