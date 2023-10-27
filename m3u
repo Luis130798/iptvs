@@ -21,7 +21,6 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico",Las Estrellas (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
@@ -68,7 +67,6 @@ https://vdo.grupolimalive.com:3245/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3VWF3sj.png" group-title="Music",AlbDreams TV (720p)
 http://live.albavision.net:1123/live/albdreams.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Latino", Bitme 
 http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="Latino", Cartoonito 
@@ -96,7 +94,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 https://ythls.onrender.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SG7D0gt.png" group-title="Noticias",3 24 CHANNEL (1080p)
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI2DFUNE.png" group-title="Paises",Canal 2 - 2CTV
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
@@ -137,7 +134,6 @@ http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura", H2 
 http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV 
 http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN 
@@ -167,4 +163,3 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 http://tvum.vip:25461/movie/Frank686/09876/134.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aPr4HTqvYKAjSJpeakz6NU6H6zr.jpg" group-title="Cine Accion", Death Race: La carrera de la muerte (2008)
 http://tvum.vip:25461/movie/Frank686/09876/139.mp4
-
