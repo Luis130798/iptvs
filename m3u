@@ -31,6 +31,8 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xp4WW2n.png" group-title="Cultura", Animal Planet HD
+http://190.61.57.2:1010/play/a029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
