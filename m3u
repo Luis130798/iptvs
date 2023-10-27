@@ -33,6 +33,20 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xp4WW2n.png" group-title="Cultura", Animal Planet HD
 http://190.61.57.2:1010/play/a029/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJiJ9T0.png" group-title="Cultura", Discovery HD
+http://190.61.57.2:1010/play/a02T/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
+http://190.61.57.2:1010/play/a01y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento", A&E HD
+http://190.61.57.2:1010/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PzGRO8.png" group-title="Entretenimiento", Cinecanal HD
+http://190.61.57.2:1010/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/muR3xxn.png" group-title="Infantil", Cartoon Network HD
+http://190.61.57.2:1010/play/a025/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lQtyYbc.png" group-title="Infantil", Disney HD
+http://190.61.57.2:1010/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
