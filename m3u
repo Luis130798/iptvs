@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezjcqWP.jpg" group-title="Peru",Panamericana TV
@@ -28,16 +29,26 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España", 101tv Málaga (1080p)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", 360° (1080p)
 https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="World", Alanya Posta TV (1080p)
+https://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjOxwdd.png" group-title="World", Alhiwar TV (1080p)
+https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+https://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="World", Almahriah TV (1080p)
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="World", ,A2i Music (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UkxzGL.png" group-title="Music", ,A2i Music (720p)
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfrobeatTVEntertainment.uk" tvg-logo="https://i.imgur.com/232ndRK.png" group-title="Music",Afrobeats (1080p)
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -57,7 +68,8 @@ https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cVUmoKE.png" group-title="Music",LimaLive (720p) [Not 24/7]
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3VWF3sj.png" group-title="Music",AlbDreams TV (720p)
+http://live.albavision.net:1123/live/albdreams.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="Latino", Bitme 
@@ -154,5 +166,8 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
 http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xyGpPZ2gKvOFAz67VqlcAze4sH2.jpg" group-title="Cine Accion", Deadpool 2 (2018)
+http://tvum.vip:25461/movie/Frank686/09876/134.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aPr4HTqvYKAjSJpeakz6NU6H6zr.jpg" group-title="Cine Accion", Death Race: La carrera de la muerte (2008)
+http://tvum.vip:25461/movie/Frank686/09876/139.mp4
 
