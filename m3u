@@ -27,6 +27,9 @@ http://38.43.150.126:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Peru", MEGA
 http://200.24.206.132:8000/play/a0b3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7nouhJ.png" group-title="24/7", Game of Thrones
+http://tvum.vip:25461/Frank686/09876/112746
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C HD
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CfDknxf.png" group-title="Chile", Canal 13 HD
