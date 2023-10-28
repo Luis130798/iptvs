@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezjcqWP.jpg" group-title="Peru",Panamericana TV
-https://cdn75.iblups.com/hls/stream.m3u8
+http://38.43.150.126:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV (720p) [Not 24/7]
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur (720p) [Not 24/7]
@@ -12,18 +12,28 @@ https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sd
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vPEsVJs.png" group-title="Peru",TV Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vPEsVJs.png" group-title="Peru",TV Peru
+http://200.24.206.132:8000/play/a070/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJOs6KM.jpg" group-title="Peru",CANAL N
+http://38.43.150.126:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina (720p) [Geo-blocked]
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America Tv HD
 http://45.233.169.13:8000/play/a09i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America Tv HD
+http://38.43.150.126:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Peru", MEGA
+http://200.24.206.132:8000/play/a0b3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico",Las Estrellas (720p)
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico", Las Estrellas (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqU0Kbd.png" group-title="Mexico", Pasiones HD
+http://38.43.150.126:8000/play/a036/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -53,12 +63,22 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 http://190.61.57.2:1010/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento", A&E HD
 http://190.61.57.2:1010/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO POP HD
+http://38.43.150.126:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="Entretenimiento", FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RUaFoBj.jpg" group-title="Entretenimiento", Paramount HD
+http://200.114.68.133:8999/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
 http://190.61.57.2:1010/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
+http://38.43.150.126:8000/play/a038/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="Entretenimiento", Studio Universal HD
 http://190.61.57.2:1010/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="Entretenimiento", Sony HD
+http://38.43.150.126:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
+http://38.43.150.126:8000/play/a033/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="Entretenimiento", Golden HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PzGRO8.png" group-title="Entretenimiento", Cinecanal HD
@@ -67,7 +87,14 @@ http://190.61.57.2:1010/play/a046/index.m3u8
 http://190.61.57.2:1010/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="Entretenimiento", De Pelicula
+http://38.43.150.126:8000/play/a04i/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rlRVnHF.png" group-title="Music",Telehit HD
+http://200.24.206.132:8000/play/a0ie/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oJzXdIR.png" group-title="Infantil", DISCOVERY KIDS
+http://38.43.150.126:8000/play/a03w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/muR3xxn.png" group-title="Infantil", Cartoon Network HD
 http://190.61.57.2:1010/play/a025/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJ7p3RU.png" group-title="Infantil", Disney Junior
@@ -75,6 +102,12 @@ http://190.61.57.2:1010/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQtyYbc.png" group-title="Infantil", Disney HD
 http://190.61.57.2:1010/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/njdN8mE.jpg" group-title="Sports", GOLPERU HD
+http://38.43.150.126:8000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtbUUo5.jpg" group-title="Sports", GolTV HD
+http://38.43.150.126:8000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KODesup.png" group-title="Sports", Movistar Deportes HD
+http://38.43.150.126:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zvUSgsE.png" group-title="Sports", Fox Sports 1 HD
 http://190.61.57.2:1010/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WxVUw9W.png" group-title="Sports", Fox Sports 3 HD
@@ -89,6 +122,8 @@ http://190.61.57.2:1010/play/a01n/index.m3u8
 http://190.61.57.2:1010/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NXNUGjV.png" group-title="Sports", ESPN Extra HD
 http://190.61.57.2:1010/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhP9L.jpg" group-title="Sports", ,ElCanaldelFutbol HD
+http://200.24.206.132:8000/play/a0iq/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
