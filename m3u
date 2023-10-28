@@ -55,6 +55,8 @@ http://190.61.57.2:1010/play/a029/index.m3u8
 http://190.61.57.2:1010/play/a02T/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
 http://190.61.57.2:1010/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ew2DWyB.png" group-title="Cultura", Discovery ID HD
+http://190.83.2.178:8009/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 
@@ -73,6 +75,8 @@ http://200.114.68.133:8999/play/a0tl/index.m3u8
 http://190.61.57.2:1010/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
 http://38.43.150.126:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFUuo5t.png" group-title="Entretenimiento", TNT Series HD
+http://191.102.106.46:15028/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="Entretenimiento", Studio Universal HD
 http://190.61.57.2:1010/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="Entretenimiento", Sony HD
