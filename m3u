@@ -31,6 +31,10 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
+http://190.61.57.2:1010/play/a02t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCPPrvk.png" group-title="Cultura", History 2 HD
+http://190.61.57.2:1010/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xp4WW2n.png" group-title="Cultura", Animal Planet HD
 http://190.61.57.2:1010/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJiJ9T0.png" group-title="Cultura", Discovery HD
@@ -44,6 +48,8 @@ http://190.61.57.2:1010/play/a02d/index.m3u8
 http://190.61.57.2:1010/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="Entretenimiento", FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="Entretenimiento", Golden HD
+http://190.61.57.2:1010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PzGRO8.png" group-title="Entretenimiento", Cinecanal HD
 http://190.61.57.2:1010/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="Entretenimiento", Cinemax HD
@@ -56,6 +62,10 @@ http://190.61.57.2:1010/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQtyYbc.png" group-title="Infantil", Disney HD
 http://190.61.57.2:1010/play/a01l/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zvUSgsE.png" group-title="Sports", Fox Sports 1 HD
+http://190.61.57.2:1010/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WxVUw9W.png" group-title="Sports", Fox Sports 3 HD
+http://190.61.57.2:1010/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3DPESEI.png" group-title="Sports", ESPN HD
 http://190.61.57.2:1010/play/a02c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dwRwSmb.png" group-title="Sports", ESPN 2 HD
