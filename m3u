@@ -27,8 +27,13 @@ http://38.43.150.126:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Peru", MEGA
 http://200.24.206.132:8000/play/a0b3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C HD
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CfDknxf.png" group-title="Chile", Canal 13 HD
+http://190.61.57.2:1010/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nxVcUkR.png" group-title="Colombia", Caracol HD
+http://190.61.57.2:1010/play/a02j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico", Las Estrellas (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -57,20 +62,37 @@ http://190.61.57.2:1010/play/a02T/index.m3u8
 http://190.61.57.2:1010/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ew2DWyB.png" group-title="Cultura", Discovery ID HD
 http://190.83.2.178:8009/play/a06r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery H&H HD
+http://190.61.57.2:1010/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13FSBAf.png" group-title="Cultura", El Gourmet HD
+http://190.61.57.2:1010/play/a01v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GedjhvM.png" group-title="Cultura", Food Network HD
+http://190.61.57.2:1010/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVXDy92.png" group-title="Entretenimiento", E! HD
 http://190.61.57.2:1010/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento", A&E HD
 http://190.61.57.2:1010/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgZEjGp.png" group-title="Entretenimiento", AMC HD
+http://190.61.57.2:1010/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UuONBTV.png" group-title="Entretenimiento", STAR CHANNEL HD
+http://190.61.57.2:1010/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/buaQc9r.png" group-title="Entretenimiento", AXN HD
+http://190.61.57.2:1010/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="Entretenimiento", Comedy Central HD
+http://190.61.57.2:1010/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento", DHE HD
+http://190.61.57.2:1010/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO POP HD
 http://38.43.150.126:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="Entretenimiento", FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RUaFoBj.jpg" group-title="Entretenimiento", Paramount HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
 http://200.114.68.133:8999/play/a0tl/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
+http://190.61.57.2:1010/play/a026/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
 http://190.61.57.2:1010/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
@@ -79,13 +101,17 @@ http://38.43.150.126:8000/play/a038/index.m3u8
 http://191.102.106.46:15028/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="Entretenimiento", Studio Universal HD
 http://190.61.57.2:1010/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lG64AHb.png" group-title="Entretenimiento", UNIVERSAL CHANNEL HD
+http://190.61.57.2:1010/play/a01z/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BDyOOdm.png" group-title="Entretenimiento", Sony HD
 http://38.43.150.126:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
 http://38.43.150.126:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
+http://190.61.57.2:1010/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="Entretenimiento", Golden HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8PzGRO8.png" group-title="Entretenimiento", Cinecanal HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="Entretenimiento", Cinecanal HD
 http://190.61.57.2:1010/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="Entretenimiento", Cinemax HD
 http://190.61.57.2:1010/play/a01r/index.m3u8
@@ -93,6 +119,8 @@ http://190.61.57.2:1010/play/a01r/index.m3u8
 http://190.61.57.2:1010/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="Entretenimiento", De Pelicula
 http://38.43.150.126:8000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1FpB6K.png" group-title="Entretenimiento", MTV HD
+http://190.61.57.2:1010/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rlRVnHF.png" group-title="Music",Telehit HD
 http://200.24.206.132:8000/play/a0ie/index.m3u8
