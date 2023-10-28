@@ -14,6 +14,10 @@ https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/in
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina (720p) [Geo-blocked]
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
+http://190.61.57.2:1010/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America Tv HD
+http://45.233.169.13:8000/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -29,8 +33,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España", 101tv Málaga (1080p)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo HD
+http://190.61.57.2:1010/play/a043/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
 http://190.61.57.2:1010/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCPPrvk.png" group-title="Cultura", History 2 HD
@@ -41,6 +45,9 @@ http://190.61.57.2:1010/play/a029/index.m3u8
 http://190.61.57.2:1010/play/a02T/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
 http://190.61.57.2:1010/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Cultura", Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fVXDy92.png" group-title="Entretenimiento", E! HD
 http://190.61.57.2:1010/play/a02d/index.m3u8
@@ -48,12 +55,18 @@ http://190.61.57.2:1010/play/a02d/index.m3u8
 http://190.61.57.2:1010/play/a017/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="Entretenimiento", FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
+http://190.61.57.2:1010/play/a01m/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="Entretenimiento", Studio Universal HD
+http://190.61.57.2:1010/play/a027/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="Entretenimiento", Golden HD
 http://190.61.57.2:1010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8PzGRO8.png" group-title="Entretenimiento", Cinecanal HD
 http://190.61.57.2:1010/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="Entretenimiento", Cinemax HD
 http://190.61.57.2:1010/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
+http://190.61.57.2:1010/play/a019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/muR3xxn.png" group-title="Infantil", Cartoon Network HD
 http://190.61.57.2:1010/play/a025/index.m3u8
