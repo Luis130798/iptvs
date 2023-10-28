@@ -2,11 +2,13 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ezjcqWP.jpg" group-title="Peru",Panamericana TV
 http://38.43.150.126:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV HD
+http://38.43.150.127:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias 
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Peru",Canal IPe (1080p)
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
@@ -16,19 +18,18 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 http://200.24.206.132:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QJOs6KM.jpg" group-title="Peru",CANAL N
 http://38.43.150.126:8000/play/a04d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina (720p) [Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina 
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America Tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America HD
 http://45.233.169.13:8000/play/a09i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America Tv HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America HD
 http://38.43.150.126:8000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Re2KRoZ.png" group-title="Peru", GLOBAL
+http://38.43.150.127:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Peru", MEGA
 http://200.24.206.132:8000/play/a0b3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u7nouhJ.png" group-title="24/7", Game of Thrones
-http://tvum.vip:25461/Frank686/09876/112746
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C HD
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -88,8 +89,18 @@ http://190.61.57.2:1010/play/a01a/index.m3u8
 http://190.61.57.2:1010/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento", DHE HD
 http://190.61.57.2:1010/play/a02l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO HD
+http://204.157.251.250:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO2 HD
+http://204.157.251.250:8000/play/a06u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO Plus HD
+http://204.157.251.250:8000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO XTREME
+http://204.157.251.250:8000/play/a06x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO POP HD
 http://38.43.150.126:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO Family HD
+http://204.157.251.250:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nuv4kk4.png" group-title="Entretenimiento", FX HD
 http://190.61.57.2:1010/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
@@ -120,6 +131,8 @@ http://190.61.57.2:1010/play/a046/index.m3u8
 http://190.61.57.2:1010/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
+http://38.43.150.127:8000/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="Entretenimiento", De Pelicula
 http://38.43.150.126:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1FpB6K.png" group-title="Entretenimiento", MTV HD
@@ -159,6 +172,62 @@ http://190.61.57.2:1010/play/a020/index.m3u8
 http://190.61.57.2:1010/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhP9L.jpg" group-title="Sports", ,ElCanaldelFutbol HD
 http://200.24.206.132:8000/play/a0iq/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c1FpB6K.png" group-title="US", MTV
+http://195.181.169.162:80/US_MTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="US", National Geographic
+http://195.181.169.162:80/US_National_Geographic_Channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US", Animal Planet
+http://195.181.169.162:80/US_Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Nat Geo WILD
+http://195.181.169.162:80/US_Nat_Geo_WILD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="US",HISTORY
+http://195.181.169.162:80/US_HISTORY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Discovery
+http://195.181.169.162:80/US_Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Investigation Discovery
+http://195.181.169.162:80/US_Investigation_Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Travel_Channel
+http://195.181.169.162:80/US_Travel_Channel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Science
+http://195.181.169.162:80/US_Science/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",FYI
+http://195.181.169.162:80/US_/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US", Discovery Life
+http://195.181.169.162:80/US_Discovery_Life/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",DIY Network
+http://195.181.169.162:80/US_DIY_Network/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",HGTV
+http://195.181.169.162:80/US_HGTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",AMC
+http://195.181.169.162:80/US_AMC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ East
+http://195.181.169.162:80/US_STARZ_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ Encore East
+http://195.181.169.162:80/US_STARZ_Encore_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ Encore Action HD
+http://195.181.169.162:80/US_STARZ_Encore_Action_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ ENCORE Black
+http://195.181.169.162:80/US_STARZ_ENCORE_Black/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ ENCORE Westerns
+http://195.181.169.162:80/US_STARZ_ENCORE_Westerns/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",STARZ ENCORE Family
+http://195.181.169.162:80/US_STARZ_ENCORE_Family/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",HBO_East
+http://195.181.169.162:80/US_HBO_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",HBO Family East
+http://195.181.169.162:80/US_HBO_Family_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Cinemax_East
+http://195.181.169.162:80/US_Cinemax_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",Showtime HD East
+http://195.181.169.162:80/US_Showtime_HD_East/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="US",TLC
+http://195.181.169.162:80/US_TLC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0uQrvye.png" group-title="RU", STAR CINEMA HD
+http://212.0.211.102:9999/play/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aHqpval.png" group-title="RU", Nauka HD
+http://212.0.211.102:9999/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
