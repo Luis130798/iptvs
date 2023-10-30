@@ -1,30 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ezjcqWP.jpg" group-title="Peru",Panamericana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qWt86O.png" group-title="Peru",Panamericana TV
 http://38.43.150.126:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru",ATV HD
 http://38.43.150.127:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru",ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru",ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Peru",ATV+ Noticias 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mjebzCN.png" group-title="Peru",ATV+ Noticias 
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Peru",Canal IPe (1080p)
 https://d16467quqotqb8.cloudfront.net/out/v1/3f2cb1658d114f2693eff18d83199e67/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPEsVJs.png" group-title="Peru",TV Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SOr8I8.png" group-title="Peru",TV Peru
 https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vPEsVJs.png" group-title="Peru",TV Peru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SOr8I8.png" group-title="Peru",TV Peru
 http://200.24.206.132:8000/play/a070/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJOs6KM.jpg" group-title="Peru",CANAL N
-http://38.43.150.126:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina 
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHieJNM.png" group-title="Peru",America HD
 http://45.233.169.13:8000/play/a09i/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/akFPAXg.png" group-title="Peru",America HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHieJNM.png" group-title="Peru",America HD
 http://38.43.150.126:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Re2KRoZ.png" group-title="Peru", GLOBAL
 http://38.43.150.127:8000/play/a04m/index.m3u8
