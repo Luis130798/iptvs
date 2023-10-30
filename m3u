@@ -31,13 +31,19 @@ http://38.43.150.127:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Peru", MEGA
 http://200.24.206.132:8000/play/a0b3/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UrtUTyE.png" group-title="Chile", MEGA
+http://190.61.55.186:1010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BvGsAkw.png" group-title="Chile", 13C HD
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CfDknxf.png" group-title="Chile", Canal 13 HD
 http://190.61.57.2:1010/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jy6Up1f.png" group-title="Chile", CNN Chile HD
+http://190.61.55.186:1010/play/a01d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nxVcUkR.png" group-title="Colombia", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZeDRwj.png" group-title="Colombia", Señal Colombia HD
+http://190.61.55.186:1010/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico", Las Estrellas (720p)
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -54,36 +60,20 @@ https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo HD
 http://190.61.57.2:1010/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo Wild HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/161
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
 http://190.61.57.2:1010/play/a02t/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/159
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JCPPrvk.png" group-title="Cultura", History 2 HD
 http://190.61.57.2:1010/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xp4WW2n.png" group-title="Cultura", Animal Planet HD
 http://190.61.57.2:1010/play/a029/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJiJ9T0.png" group-title="Cultura", Discovery HD
 http://190.61.57.2:1010/play/a02T/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UJiJ9T0.png" group-title="Cultura", Discovery HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/152
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
 http://190.61.57.2:1010/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/156
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ew2DWyB.png" group-title="Cultura", Discovery ID HD
 http://190.83.2.178:8009/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery H&H HD
 http://190.61.57.2:1010/play/a01x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery H&H HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery Science HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/155
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery World HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/158
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery Turbo HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/163
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13FSBAf.png" group-title="Cultura", El Gourmet HD
 http://190.61.57.2:1010/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GedjhvM.png" group-title="Cultura", Food Network HD
@@ -95,8 +85,6 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 http://190.61.57.2:1010/play/a02d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento", A&E HD
 http://190.61.57.2:1010/play/a017/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eW0KMym.png" group-title="Entretenimiento", A&E HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/102
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FgZEjGp.png" group-title="Entretenimiento", AMC HD
 http://190.61.57.2:1010/play/a023/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UuONBTV.png" group-title="Entretenimiento", STAR CHANNEL HD
@@ -105,8 +93,6 @@ http://190.61.57.2:1010/play/a02r/index.m3u8
 http://190.61.57.2:1010/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="Entretenimiento", Comedy Central HD
 http://190.61.57.2:1010/play/a01s/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/28F3Dxs.png" group-title="Entretenimiento", Comedy Central HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/109
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qej2Zvt.jpg" group-title="Entretenimiento", DHE HD
 http://190.61.57.2:1010/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO HD
@@ -127,14 +113,10 @@ http://190.61.57.2:1010/play/a021/index.m3u8
 http://200.114.68.133:8999/play/a0tl/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
 http://190.61.57.2:1010/play/a026/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvpthIA.png" group-title="Entretenimiento", Paramount HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/123
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
 http://190.61.57.2:1010/play/a01m/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
 http://38.43.150.126:8000/play/a038/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiGco6R.png" group-title="Entretenimiento", TNT HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/128
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bFUuo5t.png" group-title="Entretenimiento", TNT Series HD
 http://191.102.106.46:15028/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4TaBISZ.png" group-title="Entretenimiento", Studio Universal HD
@@ -151,18 +133,12 @@ http://190.61.57.2:1010/play/a01b/index.m3u8
 http://190.61.57.2:1010/play/a02b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="Entretenimiento", Cinecanal HD
 http://190.61.57.2:1010/play/a046/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XMs9JPb.png" group-title="Entretenimiento", Cinecanal HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/105
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="Entretenimiento", Cinemax HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dWt5jI.png" group-title="Entretenimiento", Cinemax HD
 http://190.61.57.2:1010/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
 http://190.61.57.2:1010/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
 http://38.43.150.127:8000/play/a032/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DIHRgw6.png" group-title="Entretenimiento", Warner Channel HD
-http://proiptvdigic.com:8080/fer43092/yGFE5wmQDwxn/130
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xJ0FecU.png" group-title="Entretenimiento", De Pelicula
 http://38.43.150.126:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1FpB6K.png" group-title="Entretenimiento", MTV HD
@@ -179,7 +155,11 @@ http://190.61.57.2:1010/play/a025/index.m3u8
 http://190.61.57.2:1010/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQtyYbc.png" group-title="Infantil", Disney HD
 http://190.61.57.2:1010/play/a01l/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbiBX6h.png" group-title="Infantil", Nickelodeon
+http://200.24.204.242:6020/play/a0av/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9UGtvB.png" group-title="Sports", TyC Sports HD
+http://200.24.204.242:6020/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njdN8mE.jpg" group-title="Sports", GOLPERU HD
 http://38.43.150.126:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YtbUUo5.jpg" group-title="Sports", GolTV HD
@@ -393,3 +373,154 @@ http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8
 http://tvum.vip:25461/movie/Frank686/09876/134.mkv
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aPr4HTqvYKAjSJpeakz6NU6H6zr.jpg" group-title="Cine Accion", Death Race: La carrera de la muerte (2008)
 http://tvum.vip:25461/movie/Frank686/09876/139.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg" group-title="Cine Animacion",Monstruos University (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132031.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCHNCoat9L0Q3p4XjBQqV2Zn7Ux.jpg" group-title="Cine Animacion",El Grinch (2018)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132063.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg" group-title="Cine Animacion",Spider-Man: Un nuevo universo (2018)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132107.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu6RaEAfkIQaolf20axWaRU4h3w.jpg" group-title="Cine Animacion",Mi vecino Totoro (1988)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132315.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg" group-title="Cine Animacion",¡Canta! (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132402.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a2fmufY8h0SirNKt37yprZdf7xi.jpg" group-title="Cine Animacion",Los Croods: Una nueva era (2020)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132831.mkv
+#EXTINF:-1 group-title="Cine Animacion",Soul (2020)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/133057.mkv
+#EXTINF:-1 group-title="Cine Animacion",El viaje de Chihiro (2001)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/133652.mp4
+#EXTINF:-1 group-title="Cine Animacion",La leyenda de las momias de Guanajuato (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/134240.mp4
+#EXTINF:-1 group-title="Cine Animacion",El tiempo contigo (2019)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/134810.mp4
+#EXTINF:-1 group-title="Cine Animacion",El rey león 2: El tesoro de Simba (1998) FHD
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135158.mkv
+#EXTINF:-1 group-title="Cine Animacion",Operación Cacahuete (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135168.mkv
+#EXTINF:-1 group-title="Cine Animacion",Shrek 2 (2004)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135796.mkv
+#EXTINF:-1 group-title="Cine Animacion",Shrek, felices para siempre (2010)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135799.mkv
+#EXTINF:-1 group-title="Cine Animacion",Shrek Tercero (2007)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135800.mkv
+#EXTINF:-1 group-title="Cine Animacion",Shrek (2001)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135813.mkv
+#EXTINF:-1 group-title="Cine Animacion",Brave (Indomable) (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135816.mkv
+#EXTINF:-1 group-title="Cine Animacion",El gato con botas: Los tres diablos (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135828.mkv
+#EXTINF:-1 group-title="Cine Animacion",Seven Days War (2019)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136201.mkv
+#EXTINF:-1 group-title="Cine Animacion",Cómo entrenar a tu dragón (2010)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136260.mkv
+#EXTINF:-1 group-title="Cine Animacion",Raya y el último dragón (2021)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136275.mp4
+#EXTINF:-1 group-title="Cine Animacion",Madagascar (2005)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136290.mkv
+#EXTINF:-1 group-title="Cine Animacion",Lluvia de albóndigas 2 (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136352.mkv
+#EXTINF:-1 group-title="Cine Animacion",Tarzán (1999)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137101.mp4
+#EXTINF:-1 group-title="Cine Animacion",Mascotas (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137460.mp4
+#EXTINF:-1 group-title="Cine Animacion",Ratatouille (2007)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137546.mp4
+#EXTINF:-1 group-title="Cine Animacion",Cómo entrenar a tu dragón 2 (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137547.mp4
+#EXTINF:-1 group-title="Cine Animacion",Tadeo Jones 2: El secreto del rey Midas (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/107372.mp4
+#EXTINF:-1 group-title="Cine Animacion",Dragon Ball Z: Los tres grandes Super Saiyans (1992)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/125856.mkv
+#EXTINF:-1 group-title="Cine Animacion",Bob Esponja: Un héroe al rescate (2020)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126557.mp4
+#EXTINF:-1 group-title="Cine Animacion",El bebé jefazo (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126573.mp4
+#EXTINF:-1 group-title="Cine Animacion",El viaje de Arlo (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126575.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los Croods (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126574.mp4
+#EXTINF:-1 group-title="Cine Animacion",El rey león (1994)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126576.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los pitufos 2 (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126578.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los pitufos (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126579.mp4
+#EXTINF:-1 group-title="Cine Animacion",Up (2009)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126580.mp4
+#EXTINF:-1 group-title="Cine Animacion",¡Rompe Ralph! (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126581.mp4
+#EXTINF:-1 group-title="Cine Animacion",Aladdin (1992)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126582.mp4
+#EXTINF:-1 group-title="Cine Animacion",Alvin y las ardillas: Fiesta sobre ruedas (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126583.mkv
+#EXTINF:-1 group-title="Cine Animacion",Alvin y las ardillas 2 (2009)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126584.mp4
+#EXTINF:-1 group-title="Cine Animacion",Alvin y las ardillas (2007)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126585.mp4
+#EXTINF:-1 group-title="Cine Animacion",Angry Birds: La película (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126586.mp4
+#EXTINF:-1 group-title="Cine Animacion",Ferdinand (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126587.mp4
+#EXTINF:-1 group-title="Cine Animacion",Frozen: El reino del hielo (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126588.mp4
+#EXTINF:-1 group-title="Cine Animacion",Home: Hogar dulce hogar (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126589.mp4
+#EXTINF:-1 group-title="Cine Animacion",Hotel Transilvania 2 (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126590.mp4
+#EXTINF:-1 group-title="Cine Animacion",Kung Fu Panda 2 (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126591.mp4
+#EXTINF:-1 group-title="Cine Animacion",Hotel Transilvania (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126592.mkv
+#EXTINF:-1 group-title="Cine Animacion",Kung Fu Panda 3 (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126593.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los Pingüinos de Madagascar (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126595.mp4
+#EXTINF:-1 group-title="Cine Animacion",Aviones (2013)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126597.mp4
+#EXTINF:-1 group-title="Cine Animacion",Río 2 (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126608.mp4
+#EXTINF:-1 group-title="Cine Animacion",Río (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126609.mkv
+#EXTINF:-1 group-title="Cine Animacion",Angry Birds 2: La Película (2019)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126612.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los Increíbles (2004)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126614.mp4
+#EXTINF:-1 group-title="Cine Animacion",Big Hero 6 (2014)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126619.mp4
+#EXTINF:-1 group-title="Cine Animacion",Cars 2 (2011)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126622.mp4
+#EXTINF:-1 group-title="Cine Animacion",Cars 3 (2017)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126623.mp4
+#EXTINF:-1 group-title="Cine Animacion",Cars (2006)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126627.mp4
+#EXTINF:-1 group-title="Cine Animacion",Madagascar 3: De marcha por Europa (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126633.mkv
+#EXTINF:-1 group-title="Cine Animacion",Ice Age 4: La formación de los continentes (2012)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126639.mp4
+#EXTINF:-1 group-title="Cine Animacion",Ice Age: La edad de hielo (2002)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126640.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los Increíbles 2 (2018)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126641.mp4
+#EXTINF:-1 group-title="Cine Animacion",Kung Fu Panda (2008)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126642.mp4
+#EXTINF:-1 group-title="Cine Animacion",Madagascar 2 (2008)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126643.mkv
+#EXTINF:-1 group-title="Cine Animacion",Ice Age 2: El deshielo (2006)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126650.mp4
+#EXTINF:-1 group-title="Cine Animacion",Ice Age 3: El origen de los dinosaurios (2009)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126651.mp4
+#EXTINF:-1 group-title="Cine Animacion",Ice Age: El gran cataclismo (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126652.mp4
+#EXTINF:-1 group-title="Cine Animacion",Los Minions (2015)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137544.mp4
+#EXTINF:-1 group-title="Cine Animacion",Robots (2005)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136251.mp4
+#EXTINF:-1 group-title="Cine Animacion",Monstruos, S.A. (2001)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/139922.mkv
+#EXTINF:-1 group-title="Cine Animacion",Palabras que burbujean como un refresco (2021)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/140695.mp4
+#EXTINF:-1 group-title="Cine Animacion",Madagascar (2005)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136290.mkv
+#EXTINF:-1 group-title="Cine Animacion",Mascotas (2016)
+http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137460.mp4
