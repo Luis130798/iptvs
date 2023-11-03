@@ -1,13 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5qWt86O.png" group-title="Peru",Panamericana TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5qWt86O.png" group-title="Peru", Panamericana TV
 http://38.43.150.126:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru",ATV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru", ATV HD
 http://38.43.150.127:8000/play/a03y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru",ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KwEQJA.png" group-title="Peru", ATV
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru",ATV Sur
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru", ATV Sur
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="Peru", ATV SUR HD
+http://181.119.66.30:8000/play/60/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mjebzCN.png" group-title="Peru",ATV+ Noticias 
 https://d3krdjs7is1y42.cloudfront.net/ATVmas/74ee4169b59e6f987ae3d77317309109.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Peru",Canal IPe (1080p)
@@ -18,8 +20,10 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 http://200.24.206.132:8000/play/a070/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina 
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru",Latina HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru", Latina HD
 http://190.61.57.2:1010/play/a042/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hvk59N.png" group-title="Peru", Latina HD
+http://181.129.198.235:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CHieJNM.png" group-title="Peru",America HD
 http://45.233.169.13:8000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CHieJNM.png" group-title="Peru",America HD
@@ -53,6 +57,8 @@ http://190.109.23.4:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRqk8Vr.png" group-title="Colombia", Canal 1 HD
 http://190.109.23.4:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NZeDRwj.png" group-title="Colombia", Señal Colombia HD
+http://181.129.198.235:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NZeDRwj.png" group-title="Colombia", Señal Colombia HD
 http://190.61.55.186:1010/play/a00r/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PODfy0R.png" group-title="Venezuela", TELESUR
@@ -70,7 +76,11 @@ http://38.43.150.126:8000/play/a036/index.m3u8
 http://190.109.23.4:8000/play/a0e2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EJ9gmGs.png" group-title="Mexico", UNIVISION HD
 http://190.109.23.4:8000/play/a0dz/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXV7PxF.png" group-title="Mexico", Unimas HD
+http://181.189.246.86:58004/play/a00n/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7YmH00t.png" group-title="Argentina", El Trece
+http://181.129.198.235:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
@@ -78,6 +88,8 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España", 101tv Málaga (1080p)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Q4dUpk.png" group-title="España",Sun Channel HD
+http://181.129.198.235:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo HD
 http://190.61.57.2:1010/play/a043/index.m3u8
@@ -85,6 +97,8 @@ http://190.61.57.2:1010/play/a043/index.m3u8
 http://190.109.23.4:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saiEKXN.png" group-title="Cultura", ,Love nature HD
 http://190.109.23.4:8000/play/a0be/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PGw3UcL.png" group-title="Cultura", Travelxp HD
+http://179.1.201.133:54986/play/a06j/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
 http://190.61.57.2:1010/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YZpufFE.png" group-title="Cultura", History HD
@@ -127,19 +141,25 @@ http://190.61.57.2:1010/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO HD
 http://204.157.251.250:8000/play/a06t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO HD
+http://181.205.130.194:4000/play/a08u/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO HD
 http://186.28.229.140:8000/play/a07i/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO2 HD
 http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO2 HD
 http://186.28.229.140:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO 2 HD
+http://181.129.198.235:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MciBaNx.png" group-title="Entretenimiento", HBO Family HD
 http://186.148.163.18:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO Plus HD
 http://204.157.251.250:8000/play/a06v/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="Entretenimiento", HBO XTREME
 http://204.157.251.250:8000/play/a06x/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO XTREME
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="Entretenimiento", HBO XTREME
 http://186.148.163.18:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HR9jECo.png" group-title="Entretenimiento", HBO XTREME HD
+http://181.129.198.235:8000/play/a01h/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO POP HD
 http://38.43.150.126:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO Family HD
@@ -168,6 +188,8 @@ http://190.61.57.2:1010/play/a01z/index.m3u8
 http://38.43.150.126:8000/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
 http://38.43.150.126:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
+http://45.5.151.151:8000/play/a082/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KZaoGzO.png" group-title="Entretenimiento", Space HD
 http://190.61.57.2:1010/play/a01b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i0Ybr7h.png" group-title="Entretenimiento", Golden HD
@@ -208,6 +230,8 @@ http://190.61.57.2:1010/play/a04r/index.m3u8
 http://190.61.57.2:1010/play/a01l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lQtyYbc.png" group-title="Infantil", Disney HD
 http://190.109.23.4:8000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbiBX6h.png" group-title="Infantil",Nick HD
+http://181.129.198.235:8000/play/a00e/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbiBX6h.png" group-title="Infantil", Nickelodeon
 http://200.24.204.242:6020/play/a0av/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbiBX6h.png" group-title="Infantil", Nickelodeon HD
@@ -215,6 +239,10 @@ http://190.109.23.4:8000/play/a0br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9UGtvB.png" group-title="Sports", TyC Sports HD
 http://200.24.204.242:6020/play/a0e9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9UGtvB.png" group-title="Sports", TyC Sports HD
+http://181.129.198.235:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jRyDwOG.png" group-title="Sports",TNT SPORTS HD
+http://181.129.198.235:8000/play/a008/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1JWZmZ.png" group-title="Sports", Win Sports+ HD
 http://190.109.23.4:8000/play/a0bd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/njdN8mE.jpg" group-title="Sports", GOLPERU HD
@@ -243,6 +271,8 @@ http://190.61.57.2:1010/play/a020/index.m3u8
 http://190.61.57.2:1010/play/a031/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IzQhP9L.jpg" group-title="Sports", ,ElCanaldelFutbol HD
 http://200.24.206.132:8000/play/a0iq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VEUPCWd.png" group-title="Sports",Directv Sport 2
+http://181.189.246.86:58004/play/a001/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c1FpB6K.png" group-title="US", MTV
 http://195.181.169.162:80/US_MTV/tracks-v1a1/mono.m3u8
@@ -303,6 +333,23 @@ http://212.0.211.102:9999/play/6/index.m3u8
 http://212.0.211.102:9999/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aHqpval.png" group-title="RU", RusromanHD
 http://195.161.41.239:8000/play/a005/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eDFRKkE.png" group-title="Francia", C8
+http://144.217.72.24:80/c8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skXbgcW.png" group-title="Francia",W9
+http://144.217.72.24:80/w9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00gUVxH.png" group-title="Francia",M6
+http://144.217.72.24:80/m6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yzHvTYn.png" group-title="Francia", 6Ter
+http://144.217.72.24:80/6ter/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4iD8Xy.png" group-title="Francia",TFX
+http://144.217.72.24:80/TFX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6TDpPz.png" group-title="Francia",Paris Premiere
+http://144.217.72.24:80/parispremiere/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HDuQIUD.png" group-title="Francia", Teva
+http://144.217.72.24/teva/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mCiMHvH.png" group-title="Francia",RMC Story
+http://144.217.72.24/rmcstory/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OA9hm6e.png" group-title="World", канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
