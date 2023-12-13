@@ -41,8 +41,6 @@ http://186.28.229.140:8000/play/a06t/index.m3u8
 http://190.61.57.2:1010/play/a02g/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jy6Up1f.png" group-title="Chile", CNN Chile HD
 http://190.61.55.186:1010/play/a01d/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/du34R0h.png" group-title="Chile",CHILEVISION
-http://190.110.111.26:9980/play/a0o0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nxVcUkR.png" group-title="Colombia", Caracol HD
 http://190.61.57.2:1010/play/a02j/index.m3u8
@@ -51,13 +49,7 @@ http://190.109.23.4:8000/play/a046/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRqk8Vr.png" group-title="Colombia", Canal 1 HD
 http://190.109.23.4:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NZeDRwj.png" group-title="Colombia", Señal Colombia HD
-http://181.129.198.235:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NZeDRwj.png" group-title="Colombia", Señal Colombia HD
 http://190.61.55.186:1010/play/a00r/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PODfy0R.png" group-title="Venezuela", TELESUR
-http://181.78.6.106:45000/play/b080/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico", Las Estrellas HD
 http://190.109.23.4:8000/play/a0ay/index.m3u8
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/v4/company/902/icons/605b3f2c5b27a.png" group-title="Mexico", Las Estrellas
