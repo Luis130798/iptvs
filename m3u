@@ -130,8 +130,6 @@ http://186.28.229.140:8000/play/a07i/index.m3u8
 http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO2 HD
 http://186.28.229.140:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO 2 HD
-http://181.129.198.235:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MciBaNx.png" group-title="Entretenimiento", HBO Family HD
 http://186.148.163.18:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPvUk7d.png" group-title="Entretenimiento", HBO Plus HD
