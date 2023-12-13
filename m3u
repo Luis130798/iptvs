@@ -97,8 +97,6 @@ http://190.109.23.4:8000/play/a0c9/index.m3u8
 http://190.61.57.2:1010/play/a02T/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CuQAqGu.png" group-title="Cultura", Discovery Theater HD
 http://190.61.57.2:1010/play/a01y/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ew2DWyB.png" group-title="Cultura", Discovery ID HD
-http://190.83.2.178:8009/play/a06r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bhzYiMF.png" group-title="Cultura", Discovery H&H HD
 http://190.61.57.2:1010/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/13FSBAf.png" group-title="Cultura", El Gourmet HD
