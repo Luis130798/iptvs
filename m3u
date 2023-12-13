@@ -71,20 +71,14 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Brasil",	Adesso TV
-https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Brasil", TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="España", 101tv Málaga (1080p)
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Q4dUpk.png" group-title="España",Sun Channel HD
-http://181.129.198.235:8000/play/a00s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo HD
 http://190.61.57.2:1010/play/a043/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/38K71bf.png" group-title="Cultura", Nat Geo HD
-http://190.109.23.4:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/saiEKXN.png" group-title="Cultura", ,Love nature HD
 http://190.109.23.4:8000/play/a0be/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PGw3UcL.png" group-title="Cultura", Travelxp HD
