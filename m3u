@@ -66,9 +66,6 @@ http://190.109.23.4:8000/play/a0dz/index.m3u8
 http://181.189.246.86:58004/play/a00n/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lUZ9NLw.png" group-title="Mexico",Canal 5 HN HD
 http://181.189.246.86:58004/play/a015/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7YmH00t.png" group-title="Argentina", El Trece
-http://181.129.198.235:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Argentina", 13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Argentina", A24 (720p)
