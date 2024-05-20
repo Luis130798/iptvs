@@ -17,6 +17,36 @@ http://191.97.49.195:8000/play/a02p/index.m3u8
 #EXTINF:0,TV PERU
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a01u/index.m3u8
+#EXTINF:0,ESPN 1 HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a01f
+#EXTINF:0,ESPN 2 HD Norte
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a00i
+#EXTINF:0,ESPN 2 HD Sur
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a023
+#EXTINF:0,ESPN 3 HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a00q
+#EXTINF:0,ESPN 4 HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a019
+#EXTINF:0,ESPN EXTRA HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a01q
+#EXTINF:0,ESPN en Star+ 2
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a00b
+#EXTINF:0,ESPN en Star+ 3
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a00s
+#EXTINF:0,FOX Sports 2 HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a01a
+#EXTINF:0,Fox Sports 1 HD
+#EXTGRP:Deporte
+http://45.235.37.254:8370/play/a02o
 #EXTINF:0,GOLPERU HD
 #EXTGRP:Deporte
 http://181.78.22.251:8090/play/a01m/index.m3u8
@@ -26,42 +56,12 @@ http://191.97.49.195:8000/play/a02r/index.m3u8
 #EXTINF:0,GolTV HD
 #EXTGRP:Deporte
 http://181.205.77.118:4849/play/CH32
-#EXTINF:0,TyC Sports HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a02a
 #EXTINF:0,TNT SPORTS HD
 #EXTGRP:Deporte
 http://45.235.37.254:8370/play/a00a
-#EXTINF:0,Fox Sports 1 HD
+#EXTINF:0,TyC Sports HD
 #EXTGRP:Deporte
-http://45.235.37.254:8370/play/a02o
-#EXTINF:0,FOX Sports 2 HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a01a
-#EXTINF:0,ESPN en Star+ 3
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a00s
-#EXTINF:0,ESPN en Star+ 2
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a00b
-#EXTINF:0,ESPN EXTRA HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a01q
-#EXTINF:0,ESPN 4 HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a019
-#EXTINF:0,ESPN 3 HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a00q
-#EXTINF:0,ESPN 2 HD Sur
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a023
-#EXTINF:0,ESPN 2 HD Norte
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a00i
-#EXTINF:0,ESPN 1 HD
-#EXTGRP:Deporte
-http://45.235.37.254:8370/play/a01f
+http://45.235.37.254:8370/play/a02a
 #EXTINF:0,CNN Chile HD
 #EXTGRP:Chile
 http://190.61.55.186:1010/play/a01d/index.m3u8
@@ -113,6 +113,9 @@ http://190.0.241.181:8000/play/a010/index.m3u8
 #EXTINF:0,History HD
 #EXTGRP:Cultura
 http://190.0.241.181:8000/play/a04k/index.m3u8
+#EXTINF:0,History HD
+#EXTGRP:Cultura
+http://45.228.234.30:16000/play/a011/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a00q/index.m3u8
@@ -125,9 +128,6 @@ http://181.205.77.118:4849/play/CH63
 #EXTINF:0,AXN HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH34
-#EXTINF:0,CINECANAL HD
-#EXTGRP:Entretenimiento
-http://45.228.234.30:16000/play/a01q/index.m3u8
 #EXTINF:0,Cine Familiar
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
@@ -146,6 +146,9 @@ http://45.167.3.81:45000/play/a049/index.m3u8
 #EXTINF:0,Cinecanal HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH33
+#EXTINF:0,Cinecanal HD
+#EXTGRP:Entretenimiento
+http://45.228.234.30:16000/play/a01q/index.m3u8
 #EXTINF:0,Cinemax HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH57
@@ -224,9 +227,6 @@ http://181.205.77.118:4849/play/CH37
 #EXTINF:0,HBO2 HD
 #EXTGRP:Entretenimiento
 http://204.157.251.250:8000/play/a06u/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:Entretenimiento
-http://45.228.234.30:16000/play/a011/index.m3u8
 #EXTINF:0,MTV HD
 #EXTGRP:Entretenimiento
 http://45.167.3.81:45000/play/a01r/index.m3u8
@@ -290,15 +290,15 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:0,LimaLive (720p)
 #EXTGRP:Music
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
-#EXTINF:0,Qello Concerts by Stingray (1080p)
-#EXTGRP:Music
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0,TOP Latino TV | PE
 #EXTGRP:Music
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:0,Tumpis TV | PE
 #EXTGRP:Music
 https://servilive.com:3531/stream/play.m3u8
+#EXTINF:0,Qello Concerts by Stingray
+#EXTGRP:Music
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
@@ -341,9 +341,6 @@ http://190.0.241.181:8000/play/a02j/index.m3u8
 #EXTINF:0,Fox Sports 3 HD
 #EXTGRP:Sports
 http://190.61.57.2:1010/play/a01o/index.m3u8
-#EXTINF:0,360° HD RUSIA
-#EXTGRP:World
-https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:0,ALAAN TV HD
 #EXTGRP:World
 http://176.65.146.154:8025/play/a073/index.m3u8
@@ -395,36 +392,12 @@ http://176.65.146.136:8001/play/a0dq/index.m3u8
 #EXTINF:0,канал HD RUSIA
 #EXTGRP:World
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:0,Canal 26 HD
-#EXTGRP:Latino
-http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:0,Canal E!
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8
-#EXTINF:0,Cartoonito
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8
-#EXTINF:0,DePelicula
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Entretenimiento/DEPELICULA/index.m3u8
-#EXTINF:0,HolaTV
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8
-#EXTINF:0,RT en Español
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8
-#EXTINF:0,TBS
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8
-#EXTINF:0,Telefe
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:Latino
-http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8
 #EXTINF:0,AZTECA 7 HD
 #EXTGRP:Latino
 http://190.92.10.66:4000/play/a007/index.m3u8
+#EXTINF:0,Canal 26 HD
+#EXTGRP:Latino
+http://200.115.193.177/live/26hd-720/.m3u8
 #EXTINF:0,3 24 CHANNEL HD
 #EXTGRP:Noticias
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
@@ -446,9 +419,6 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0,Doble C Pe
 #EXTGRP:Paises
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-#EXTINF:0,Multivision Arg
-#EXTGRP:Paises
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:0,Aladdin (1992)
 #EXTGRP:Cine Animacion
 http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126582.mp4
