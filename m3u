@@ -8,6 +8,9 @@ http://191.97.49.195:8000/play/a02o/index.m3u8
 #EXTINF:0,Claro HD
 #EXTGRP:Peru
 http://45.167.3.81:45000/play/a00j/index.m3u8
+#EXTINF:0,Claro HD
+#EXTGRP:Peru
+http://45.5.116.178:8000/play/a00x/index.m3u8
 #EXTINF:0,Latina HD
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a02p/index.m3u8
@@ -173,12 +176,24 @@ http://45.167.3.81:45000/play/a01v/index.m3u8
 #EXTINF:0,Animal Planet HD
 #EXTGRP:Cultura
 http://45.167.3.81:45000/play/a01v/index.m3u8
+#EXTINF:0,Animal Planet HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a067/index.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a05s/index.m3u8
 #EXTINF:0,Discovery H&H HD
 #EXTGRP:Cultura
 http://190.0.241.181:8000/play/a039/index.m3u8
+#EXTINF:0,Discovery ID HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a05w/index.m3u8
 #EXTINF:0,Discovery Theater HD
 #EXTGRP:Cultura
 http://190.0.241.181:8000/play/a02i/index.m3u8
+#EXTINF:0,Discovery World HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a05t/index.m3u8
 #EXTINF:0,History 2 HD
 #EXTGRP:Cultura
 http://190.0.241.181:8000/play/a010/index.m3u8
@@ -188,6 +203,9 @@ http://190.0.241.181:8000/play/a04k/index.m3u8
 #EXTINF:0,History HD
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a011/index.m3u8
+#EXTINF:0,Nat Geo HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a05p/index.m3u8
 #EXTINF:0,National Geographic
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a00q/index.m3u8
@@ -197,6 +215,9 @@ http://190.0.241.181:8000/play/a00l/index.m3u8
 #EXTINF:0,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
+#EXTINF:0,Discovery Kids HD
+#EXTGRP:Infantil
+http://45.5.116.178:8000/play/a00j/index.m3u8
 #EXTINF:0,Disney HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a05q/index.m3u8
@@ -206,6 +227,12 @@ http://190.0.241.181:8000/play/a05q/index.m3u8
 #EXTINF:0,Disney Junior
 #EXTGRP:Infantil
 http://190.61.57.2:1010/play/a04r/index.m3u8
+#EXTINF:0,Claro Sports 1 HD
+#EXTGRP:Deporte
+http://45.5.116.178:8000/play/a00v/index.m3u8
+#EXTINF:0,Claro Sports 2 HD
+#EXTGRP:Deporte
+http://45.5.116.178:8000/play/a00w/index.m3u8
 #EXTINF:0,ESPN 1 HD
 #EXTGRP:Deporte
 http://45.235.37.254:8370/play/a01f
@@ -362,15 +389,15 @@ https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:0,LimaLive (720p)
 #EXTGRP:Music
 https://vdo.grupolimalive.com:3245/stream/play.m3u8
+#EXTINF:0,Qello Concerts by Stingray
+#EXTGRP:Music
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0,TOP Latino TV | PE
 #EXTGRP:Music
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 #EXTINF:0,Tumpis TV | PE
 #EXTGRP:Music
 https://servilive.com:3531/stream/play.m3u8
-#EXTINF:0,Qello Concerts by Stingray
-#EXTGRP:Music
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0,Canal 2 - 2CTV
 #EXTGRP:Paises
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/playlist.m3u8
@@ -404,6 +431,9 @@ http://186.148.163.18:8000/play/a04c/index.m3u8
 #EXTINF:0,Señal Colombia HD
 #EXTGRP:Colombia
 http://190.61.55.186:1010/play/a00r/index.m3u8
+#EXTINF:0,AZ click HD
+#EXTGRP:Mexico
+http://45.5.116.178:8000/play/a06h/index.m3u8
 #EXTINF:0,Las Estrellas
 #EXTGRP:Mexico
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -413,6 +443,12 @@ http://45.167.3.81:45000/play/a020/index.m3u8
 #EXTINF:0,UNIVISION HD
 #EXTGRP:Mexico
 http://45.167.3.81:45000/play/a060/index.m3u8
+#EXTINF:0,UNIVISION HD
+#EXTGRP:Mexico
+http://45.5.116.178:8000/play/a05v/index.m3u8
+#EXTINF:0,101tv Málaga (1080p)
+#EXTGRP:España
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:0,Aladdin (1992)
 #EXTGRP:Cine Animacion
 http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126582.mp4
@@ -638,6 +674,3 @@ http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132402.mp4
 #EXTINF:0,¡Rompe Ralph! (2012)
 #EXTGRP:Cine Animacion
 http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126581.mp4
-#EXTINF:0,101tv Málaga (1080p)
-#EXTGRP:España
-https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
