@@ -194,10 +194,13 @@ http://190.0.241.181:8000/play/a02i/index.m3u8
 #EXTINF:0 ,Discovery World HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05t/index.m3u8
-#EXTINF:0 ,History HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/JCPPrvk.png",History 2 HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a010/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/YZpufFE.png",History HD
 #EXTGRP:Cultura
 http://190.0.241.181:8000/play/a04k/index.m3u8
-#EXTINF:0 ,History HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/YZpufFE.png",History HD
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a011/index.m3u8
 #EXTINF:0 ,Nat Geo HD
@@ -206,9 +209,6 @@ http://45.5.116.178:8000/play/a05p/index.m3u8
 #EXTINF:0 ,National Geographic
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a00q/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/JCPPrvk.png",History 2 HD
-#EXTGRP:Cultura
-http://190.0.241.181:8000/play/a010/index.m3u8
 #EXTINF:0 ,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
