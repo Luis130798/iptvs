@@ -2,7 +2,7 @@
 #EXTINF:0 ,ATV
 #EXTGRP:Peru
 http://45.71.252.16:8000/play/a0b8/index.m3u8
-#EXTINF:0 ,America HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/CHieJNM.png",America HD
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a02o/index.m3u8
 #EXTINF:0 ,Claro HD
@@ -17,43 +17,43 @@ http://191.97.49.195:8000/play/a02p/index.m3u8
 #EXTINF:0 ,TV PERU
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a01u/index.m3u8
-#EXTINF:0 ,AE HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/eW0KMym.png",AE HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH67
-#EXTINF:0 ,AMC HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/FgZEjGp.png",AMC HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH63
-#EXTINF:0 ,AXN HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/buaQc9r.png",AXN HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH34
-#EXTINF:0 ,Cine Familiar
+#EXTINF:0 tvg-logo="https://i.imgur.com/jVg57p9.png",Cine Familiar
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
-#EXTINF:0 ,Cine Hispano
+#EXTINF:0 tvg-logo="https://i.imgur.com/dVYCYt1.png",Cine Hispano
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/CINEHISPANO/index.m3u8
 #EXTINF:0 ,Cine Premium
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/CINEPREMIUM/index.m3u8
-#EXTINF:0 ,Cinecanal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/XMs9JPb.png",Cinecanal HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH33
-#EXTINF:0 ,Cinecanal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/XMs9JPb.png",Cinecanal HD
 #EXTGRP:Entretenimiento
 http://45.167.3.81:45000/play/a049/index.m3u8
-#EXTINF:0 ,Cinecanal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/XMs9JPb.png",Cinecanal HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH33
-#EXTINF:0 ,Cinecanal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/XMs9JPb.png",Cinecanal HD
 #EXTGRP:Entretenimiento
 http://45.228.234.30:16000/play/a01q/index.m3u8
-#EXTINF:0 ,Cinemax HD
-#EXTGRP:Entretenimiento
-http://181.205.77.118:4849/play/CH57
-#EXTINF:0 ,Cinemax HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/1dWt5jI.png",Cinemax HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a04p/index.m3u8
-#EXTINF:0 ,Cinemax HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/1dWt5jI.png",Cinemax HD
+#EXTGRP:Entretenimiento
+http://181.205.77.118:4849/play/CH57
+#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_cinemax.jpg",Cinemax HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH57
 #EXTINF:0 ,Comedy Central HD
@@ -215,13 +215,13 @@ http://190.0.241.181:8000/play/a00l/index.m3u8
 #EXTINF:0 ,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
-#EXTINF:0 ,Discovery Kids HD
+#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo-discovery-kids_2021.png",Discovery Kids HD
 #EXTGRP:Infantil
 http://45.5.116.178:8000/play/a00j/index.m3u8
-#EXTINF:0 ,Disney HD
+#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_disney.jpg",Disney HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a05q/index.m3u8
-#EXTINF:0 ,Disney HD
+#EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_disney.jpg",Disney HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a05q/index.m3u8
 #EXTINF:0 ,Disney Junior
