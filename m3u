@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0 ,ATV
-#EXTGRP:Peru
-http://45.71.252.16:8000/play/a0b8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/CHieJNM.png",America HD
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a02o/index.m3u8
@@ -11,10 +8,10 @@ http://45.167.3.81:45000/play/a00j/index.m3u8
 #EXTINF:0 ,Claro HD
 #EXTGRP:Peru
 http://45.5.116.178:8000/play/a00x/index.m3u8
-#EXTINF:0 ,Latina HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/8Hvk59N.png",Latina HD
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a02p/index.m3u8
-#EXTINF:0 ,TV PERU
+#EXTINF:0 tvg-logo="https://i.imgur.com/2SOr8I8.png",TV PERU
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a01u/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/eW0KMym.png",AE HD
@@ -56,19 +53,19 @@ http://181.205.77.118:4849/play/CH57
 #EXTINF:0 tvg-logo="https://www.claro.com.pe/assets/images/logos/logo_cinemax.jpg",Cinemax HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH57
-#EXTINF:0 ,Comedy Central HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/28F3Dxs.png",Comedy Central HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a04q/index.m3u8
-#EXTINF:0 ,E! HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/fVXDy92.png",E! HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a03f/index.m3u8
-#EXTINF:0 ,FX HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/Nuv4kk4.png",FX HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a02k/index.m3u8
-#EXTINF:0 ,FX HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/Nuv4kk4.png",FX HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH38
-#EXTINF:0 ,Golden HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/i0Ybr7h.png",Golden HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH47
 #EXTINF:0 ,HBO
@@ -104,7 +101,7 @@ http://45.228.234.30:16000/play/a008/index.m3u8
 #EXTINF:0 ,HBO MUNDI
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH68
-#EXTINF:0 ,HBO POP HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/PPvUk7d.png",HBO POP HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH58
 #EXTINF:0 ,HBO Plus HD
@@ -128,69 +125,60 @@ http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:0 ,MTV HD
 #EXTGRP:Entretenimiento
 http://45.167.3.81:45000/play/a01r/index.m3u8
-#EXTINF:0 ,Paramount HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png"",Paramount HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a01f/index.m3u8
-#EXTINF:0 ,Paramount HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png"",Paramount HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH64
 #EXTINF:0 ,SONY HD
 #EXTGRP:Entretenimiento
 http://45.228.234.30:16000/play/a01p/index.m3u8
-#EXTINF:0 ,SPACE HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/KZaoGzO.png",SPACE HD
 #EXTGRP:Entretenimiento
 http://45.228.234.30:16000/play/a02e/index.m3u8
-#EXTINF:0 ,Studio Universal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/4TaBISZ.png",Studio Universal HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a01g/index.m3u8
-#EXTINF:0 ,Studio Universal HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/4TaBISZ.png",Studio Universal HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH36
-#EXTINF:0 ,TNT HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/iiGco6R.png",TNT HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a037/index.m3u8
-#EXTINF:0 ,TNT HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/iiGco6R.png",TNT HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH39
-#EXTINF:0 ,TNT Series HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/bFUuo5t.png",TNT Series HD
 #EXTGRP:Entretenimiento
 http://45.167.3.81:45000/play/a05w/index.m3u8
-#EXTINF:0 ,UNIVERSAL CHANNEL HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/lG64AHb.png",UNIVERSAL CHANNEL HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a04r/index.m3u8
-#EXTINF:0 ,UNIVERSAL CHANNEL HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/lG64AHb.png",UNIVERSAL CHANNEL HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH46
-#EXTINF:0 ,WARNER HD
-#EXTGRP:Entretenimiento
-http://45.228.234.30:16000/play/a01o/index.m3u8
-#EXTINF:0 ,Warner Channel HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/DIHRgw6.png",Warner Channel HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a03d/index.m3u8
-#EXTINF:0 ,Warner Channel HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/DIHRgw6.png",Warner Channel HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH61
-#EXTINF:0 ,Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/DIHRgw6.png",Warner Channel HD
+#EXTGRP:Entretenimiento
+http://45.228.234.30:16000/play/a01o/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xp4WW2n.png",Animal Planet HD
 #EXTGRP:Cultura
 http://45.167.3.81:45000/play/a01v/index.m3u8
-#EXTINF:0 ,Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xp4WW2n.png",Animal Planet HD
 #EXTGRP:Cultura
 http://45.167.3.81:45000/play/a01v/index.m3u8
-#EXTINF:0 ,Animal Planet HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xp4WW2n.png",Animal Planet HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a067/index.m3u8
-#EXTINF:0 ,Discovery Channel HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/UJiJ9T0.png",Discovery Channel HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05s/index.m3u8
-#EXTINF:0 ,Discovery H&H HD
-#EXTGRP:Cultura
-http://190.0.241.181:8000/play/a039/index.m3u8
-#EXTINF:0 ,Discovery ID HD
-#EXTGRP:Cultura
-http://45.5.116.178:8000/play/a05w/index.m3u8
-#EXTINF:0 ,Discovery Theater HD
-#EXTGRP:Cultura
-http://190.0.241.181:8000/play/a02i/index.m3u8
 #EXTINF:0 ,Discovery World HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05t/index.m3u8
@@ -203,12 +191,18 @@ http://190.0.241.181:8000/play/a04k/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/YZpufFE.png",History HD
 #EXTGRP:Cultura
 http://45.228.234.30:16000/play/a011/index.m3u8
-#EXTINF:0 ,Nat Geo HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/38K71bf.png",Nat Geo HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05p/index.m3u8
-#EXTINF:0 ,National Geographic
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ew2DWyB.png",Discovery ID HD
 #EXTGRP:Cultura
-http://45.228.234.30:16000/play/a00q/index.m3u8
+http://45.5.116.178:8000/play/a05w/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuQAqGu.png",Discovery Theater HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a02i/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/bhzYiMF.png",Discovery H&H HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a039/index.m3u8
 #EXTINF:0 ,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
