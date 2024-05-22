@@ -11,9 +11,17 @@ http://45.5.116.178:8000/play/a00x/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/8Hvk59N.png",Latina HD
 #EXTGRP:Peru
 http://191.97.49.195:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/2SOr8I8.png",TV PERU
+#EXTINF:0 tvg-logo="https://www.peru-vision.com/media/zoo/images/panamericana-tv-logo_0a21ca2777064e95d8b8d7e00d5d4e4d.jpg",Panamericana TV
 #EXTGRP:Peru
-http://191.97.49.195:8000/play/a01u/index.m3u8
+https://live-c.cf.dmcdn.net/sec2(0QTc5peZUSFWvuaInR4ko75g8C_LX7sgdlJzHJKb-lIq3EzvjklKv_Zuwk41DTC9g7dOBh5OV-AmEivZymGRSRNcaQvbFwWYI6XjU4YD-HQ)/dm/3/x774s7s/s/live-2.m3u8
+
+#EXTINF:0 tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png",Willax
+#EXTGRP:Peru
+https://live-b.cf.dmcdn.net/sec2(qYeWImn77riQoDJMWXnIQ5PvV5Asa2QuoCy2JQs8utrVEyHG6pAkprQVHYqhq1K92G3JXZiiF-MppfIRPO6sm0AB26JtqEOTmC4fZquesC8)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/2SOr8I8.png",TV Peru
+#EXTGRP:Peru
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/eW0KMym.png",AE HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH67
@@ -91,9 +99,6 @@ http://45.228.234.30:16000/play/a00b/index.m3u8
 http://204.157.251.250:8000/play/a06t/index.m3u8
 #EXTINF:0 ,HBO HD
 #EXTGRP:Entretenimiento
-http://181.205.130.194:4000/play/a08u/index.m3u8
-#EXTINF:0 ,HBO HD
-#EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH40
 #EXTINF:0 ,HBO HD
 #EXTGRP:Entretenimiento
@@ -125,10 +130,10 @@ http://204.157.251.250:8000/play/a06u/index.m3u8
 #EXTINF:0 ,MTV HD
 #EXTGRP:Entretenimiento
 http://45.167.3.81:45000/play/a01r/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png"",Paramount HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png",Paramount HD
 #EXTGRP:Entretenimiento
 http://190.0.241.181:8000/play/a01f/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png"",Paramount HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/YvpthIA.png",Paramount HD
 #EXTGRP:Entretenimiento
 http://181.205.77.118:4849/play/CH64
 #EXTINF:0 ,SONY HD
@@ -179,6 +184,15 @@ http://45.5.116.178:8000/play/a067/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/UJiJ9T0.png",Discovery Channel HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05s/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/bhzYiMF.png",Discovery H&H HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ew2DWyB.png",Discovery ID HD
+#EXTGRP:Cultura
+http://45.5.116.178:8000/play/a05w/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuQAqGu.png",Discovery Theater HD
+#EXTGRP:Cultura
+http://190.0.241.181:8000/play/a02i/index.m3u8
 #EXTINF:0 ,Discovery World HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05t/index.m3u8
@@ -194,15 +208,6 @@ http://45.228.234.30:16000/play/a011/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/38K71bf.png",Nat Geo HD
 #EXTGRP:Cultura
 http://45.5.116.178:8000/play/a05p/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ew2DWyB.png",Discovery ID HD
-#EXTGRP:Cultura
-http://45.5.116.178:8000/play/a05w/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/CuQAqGu.png",Discovery Theater HD
-#EXTGRP:Cultura
-http://190.0.241.181:8000/play/a02i/index.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/bhzYiMF.png",Discovery H&H HD
-#EXTGRP:Cultura
-http://190.0.241.181:8000/play/a039/index.m3u8
 #EXTINF:0 ,Cartoon Network HD
 #EXTGRP:Infantil
 http://190.0.241.181:8000/play/a00l/index.m3u8
@@ -443,228 +448,4 @@ http://45.5.116.178:8000/play/a05v/index.m3u8
 #EXTINF:0 ,101tv Málaga (1080p)
 #EXTGRP:España
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:0 ,Aladdin (1992)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126582.mp4
-#EXTINF:0 ,Alvin y las ardillas (2007)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126585.mp4
-#EXTINF:0 ,Alvin y las ardillas 2 (2009)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126584.mp4
-#EXTINF:0 ,Alvin y las ardillas: Fiesta sobre ruedas (2015)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126583.mkv
-#EXTINF:0 ,Angry Birds 2: La Película (2019)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126612.mp4
-#EXTINF:0 ,Angry Birds: La película (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126586.mp4
-#EXTINF:0 ,Aviones (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126597.mp4
-#EXTINF:0 ,Big Hero 6 (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126619.mp4
-#EXTINF:0 ,Bob Esponja: Un héroe al rescate (2020)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126557.mp4
-#EXTINF:0 ,Brave (Indomable) (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135816.mkv
-#EXTINF:0 ,Cars (2006)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126627.mp4
-#EXTINF:0 ,Cars 2 (2011)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126622.mp4
-#EXTINF:0 ,Cars 3 (2017)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126623.mp4
-#EXTINF:0 ,Cómo entrenar a tu dragón (2010)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136260.mkv
-#EXTINF:0 ,Cómo entrenar a tu dragón 2 (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137547.mp4
-#EXTINF:0 ,Dragon Ball Z: Los tres grandes Super Saiyans (1992)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/125856.mkv
-#EXTINF:0 ,El Grinch (2018)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132063.mp4
-#EXTINF:0 ,El bebé jefazo (2017)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126573.mp4
-#EXTINF:0 ,El gato con botas: Los tres diablos (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135828.mkv
-#EXTINF:0 ,El rey león (1994)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126576.mp4
-#EXTINF:0 ,El rey león 2: El tesoro de Simba (1998) FHD
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135158.mkv
-#EXTINF:0 ,El tiempo contigo (2019)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/134810.mp4
-#EXTINF:0 ,El viaje de Arlo (2015)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126575.mp4
-#EXTINF:0 ,El viaje de Chihiro (2001)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/133652.mp4
-#EXTINF:0 ,Ferdinand (2017)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126587.mp4
-#EXTINF:0 ,Frozen: El reino del hielo (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126588.mp4
-#EXTINF:0 ,Home: Hogar dulce hogar (2015)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126589.mp4
-#EXTINF:0 ,Hotel Transilvania (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126592.mkv
-#EXTINF:0 ,Hotel Transilvania 2 (2015)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126590.mp4
-#EXTINF:0 ,Ice Age 2: El deshielo (2006)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126650.mp4
-#EXTINF:0 ,Ice Age 3: El origen de los dinosaurios (2009)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126651.mp4
-#EXTINF:0 ,Ice Age 4: La formación de los continentes (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126639.mp4
-#EXTINF:0 ,Ice Age: El gran cataclismo (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126652.mp4
-#EXTINF:0 ,Ice Age: La edad de hielo (2002)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126640.mp4
-#EXTINF:0 ,Kung Fu Panda (2008)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126642.mp4
-#EXTINF:0 ,Kung Fu Panda 2 (2011)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126591.mp4
-#EXTINF:0 ,Kung Fu Panda 3 (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126593.mp4
-#EXTINF:0 ,La leyenda de las momias de Guanajuato (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/134240.mp4
-#EXTINF:0 ,Lluvia de albóndigas 2 (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136352.mkv
-#EXTINF:0 ,Los Croods (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126574.mp4
-#EXTINF:0 ,Los Croods: Una nueva era (2020)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132831.mkv
-#EXTINF:0 ,Los Increíbles (2004)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126614.mp4
-#EXTINF:0 ,Los Increíbles 2 (2018)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126641.mp4
-#EXTINF:0 ,Los Minions (2015)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137544.mp4
-#EXTINF:0 ,Los Pingüinos de Madagascar (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126595.mp4
-#EXTINF:0 ,Los pitufos (2011)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126579.mp4
-#EXTINF:0 ,Los pitufos 2 (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126578.mp4
-#EXTINF:0 ,Madagascar (2005)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136290.mkv
-#EXTINF:0 ,Madagascar (2005)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136290.mkv
-#EXTINF:0 ,Madagascar 2 (2008)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126643.mkv
-#EXTINF:0 ,Madagascar 3: De marcha por Europa (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126633.mkv
-#EXTINF:0 ,Mascotas (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137460.mp4
-#EXTINF:0 ,Mascotas (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137460.mp4
-#EXTINF:0 ,Mi vecino Totoro (1988)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132315.mp4
-#EXTINF:0 ,Monstruos University (2013)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132031.mkv
-#EXTINF:0 ,Monstruos, S.A. (2001)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/139922.mkv
-#EXTINF:0 ,Operación Cacahuete (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135168.mkv
-#EXTINF:0 ,Palabras que burbujean como un refresco (2021)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/140695.mp4
-#EXTINF:0 ,Ratatouille (2007)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137546.mp4
-#EXTINF:0 ,Raya y el último dragón (2021)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136275.mp4
-#EXTINF:0 ,Robots (2005)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136251.mp4
-#EXTINF:0 ,Río (2011)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126609.mkv
-#EXTINF:0 ,Río 2 (2014)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126608.mp4
-#EXTINF:0 ,Seven Days War (2019)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/136201.mkv
-#EXTINF:0 ,Shrek (2001)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135813.mkv
-#EXTINF:0 ,Shrek 2 (2004)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135796.mkv
-#EXTINF:0 ,Shrek Tercero (2007)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135800.mkv
-#EXTINF:0 ,Shrek, felices para siempre (2010)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/135799.mkv
-#EXTINF:0 ,Soul (2020)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/133057.mkv
-#EXTINF:0 ,Spider-Man: Un nuevo universo (2018)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132107.mp4
-#EXTINF:0 ,Tadeo Jones 2: El secreto del rey Midas (2017)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/107372.mp4
-#EXTINF:0 ,Tarzán (1999)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/137101.mp4
-#EXTINF:0 ,Up (2009)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126580.mp4
-#EXTINF:0 ,¡Canta! (2016)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/132402.mp4
-#EXTINF:0 ,¡Rompe Ralph! (2012)
-#EXTGRP:Cine Animacion
-http://00322.xyz:8000/movie/SamuraITVod/P9476gmd23/126581.mp4
+
